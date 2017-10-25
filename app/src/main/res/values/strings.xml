@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hizen</string>
+    <string name="julius_host_key">julius_host_key</string>
+    <string name="julius_host">192.168.128.137</string>
+    <string name="julius_port_key">julius_port_key</string>
+    <string name="julius_port">54310</string>
+    <string name="julius_count_key">julius_count_key</string>
+    <string name="julius_count">4</string>
+    <string name="sensor_host_key">sensor_host_key</string>
+    <string name="sensor_host">192.168.128.137</string>
+    <string name="sensor_port_key">sensor_port_key</string>
+    <string name="sensor_port">54320</string>
+    <string name="sensor_count_key">sensor_count_key</string>
+    <string name="sensor_count">5</string>
+</resources>

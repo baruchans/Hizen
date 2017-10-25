@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="@string/julius_host_key"
+        android:title="Julius Server Host"
+        android:inputType="text"
+        android:defaultValue="@string/julius_host" />
+    <EditTextPreference
+        android:key="@string/julius_port_key"
+        android:title="Julius Server Port"
+        android:inputType="number"
+        android:defaultValue="@string/julius_port" />
+    <EditTextPreference
+        android:key="@string/julius_count_key"
+        android:title="Count of Julius Server"
+        android:inputType="number"
+        android:defaultValue="@string/julius_count" />
+    <EditTextPreference
+        android:key="@string/sensor_host_key"
+        android:title="Sensor Server Host"
+        android:inputType="text"
+        android:defaultValue="@string/sensor_host" />
+    <EditTextPreference
+        android:key="@string/sensor_port_key"
+        android:title="Sensor Server Port"
+        android:inputType="number"
+        android:defaultValue="@string/sensor_port" />
+    <EditTextPreference
+        android:key="@string/sensor_count_key"
+        android:title="number of pressure sensors"
+        android:inputType="number"
+        android:defaultValue="@string/sensor_count" />
+</PreferenceScreen>
